@@ -314,7 +314,7 @@ class employee
 
 class getallemp extends employee {}
 
-$object1 = new getallemp('Ali');
+$object1 = new getallemp('li');
 $object1->getid();
 
 
